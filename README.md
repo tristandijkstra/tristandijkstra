@@ -10,8 +10,8 @@ My name is Tristan! I'm a Spaceflight student at TU Delft in the Netherlands.
 - **[Boids](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Boids algorithm in JS
 
 ##### Collaborative
-- **[Air Traffic Delay Predictions (Paper)](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Neural network models to predict delays in air traffic.
-- **[Air Traffic Delay Predictions (Minor Project)](https://github.com/junzis/atdelay)** | Neural network models to predict delays in air traffic, developed for the minor "Engineering with AI"
+- **[Air Traffic Delay Predictions (Paper)](https://github.com/junzis/atdelay)** | Neural network models to predict delays in air traffic.
+- **[Air Traffic Delay Predictions (Minor Project)](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Neural network models to predict delays in air traffic, developed for the minor "Engineering with AI"
 - **[imav2022Drone](https://github.com/tristandijkstra/imav2022)** | Drone code for IMAV2022 MAV competition.
 - **[MSP](https://github.com/tristandijkstra/msp)** | **[Examples](https://github.com/tristandijkstra/msp-examples)** | Two-Body model with manouvres.
 
