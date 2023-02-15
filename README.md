@@ -1,12 +1,12 @@
 ### Hello 👋
 
-My name is Tristan! I'm a Spaceflight student at TU Delft in the Netherlands.
+My name is Tristan! I'm a MSc Spaceflight student at TU Delft in the Netherlands.
 
 #### Favorite Projects
 
 ##### Personal
-- **[Autotrader](https://github.com/tristandijkstra/Autotrader)** | Algorithmic Trading bot written in python
-- **[Curacao Election Map](https://github.com/tristandijkstra/CuracaoMapDataScience)** | NOS/538 Style election map for Curacao with clustering
+- **[Autotrader](https://github.com/tristandijkstra/Autotrader)** | Algorithmic Trading bot written in Python
+- **[Curacao Election Map](https://github.com/tristandijkstra/CuracaoMapDataScience)** | Election map for Curacao with clustering
 - **[Boids](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Boids algorithm in JS
 
 ##### Collaborative
