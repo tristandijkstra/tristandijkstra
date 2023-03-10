@@ -8,8 +8,8 @@ My name is Tristan! I'm a MSc Spaceflight student at TU Delft in the Netherlands
 - **[Autotrader](https://github.com/tristandijkstra/Autotrader)** | Algorithmic Trading bot written in Python
 - **[Curacao Election Map](https://github.com/tristandijkstra/CuracaoMapDataScience)** | Election map for Curacao with clustering
 - **[Boids](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Boids algorithm in JS
-
 ##### Collaborative
+- **[Solar Sail Trajectory Design](https://github.com/tristandijkstra/PolarSolarSail)** | Solar Sail propelled Solar Polar Orbiter Trajectory Design (WIP).
 - **[Satellite TLE Analysis Data Retrieval](https://github.com/tristandijkstra/SmallObjectTracking)** | A set of tools to retrieve and analyse TLE Data.
 - **[Air Traffic Delay Predictions (Paper)](https://github.com/junzis/atdelay)** | Neural network models to predict delays in air traffic.
 - **[Air Traffic Delay Predictions (Minor Project)](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Neural network models to predict delays in air traffic, developed for the minor "Engineering with AI"
