@@ -8,8 +8,8 @@ My name is Tristan! I'm a MSc Spaceflight student at TU Delft in the Netherlands
 - **[Autotrader](https://github.com/tristandijkstra/Autotrader)** | Algorithmic Trading bot written in Python
 - **[Curacao Election Map](https://github.com/tristandijkstra/CuracaoMapDataScience)** | Election map for Curacao with clustering
 - **[Trajectory Animator](https://github.com/tristandijkstra/TrajectoryAnimator)** | Tool for generating trajectory animations
-<!-- - **[Boids](https://github.com/tristandijkstra/Boids)** | Boids algorithm in JS -->
 - **[Crazyflie Drone Gimbal](https://github.com/tristandijkstra/CrazyFlieGimbal)** | Gimbal to test novell control laws on the Crazyflie Drone
+<!-- - **[Boids](https://github.com/tristandijkstra/Boids)** | Boids algorithm in JS -->
 
 ##### Collaborative
 - **[Solar Sail Trajectory Design](https://github.com/tristandijkstra/PolarSolarSail)** | Solar Polar Orbiter using solar sails Trajectory Design.
