@@ -14,7 +14,7 @@ My name is Tristan! I'm a MSc Spaceflight student at TU Delft in the Netherlands
 ##### Collaborative
 - **[Solar Sail Trajectory Design](https://github.com/tristandijkstra/PolarSolarSail)** | Solar Polar Orbiter using solar sails Trajectory Design.
 - **[Satellite TLE Analysis Data Retrieval](https://github.com/tristandijkstra/SmallObjectTracking)** | A set of tools to retrieve and analyse TLE Data.
-- **Air Traffic Delay Predictions [(Paper)](https://github.com/junzis/atdelay) | [(Minor Project)](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Neural network models to predict delays in air traffic. Developed during the minor "Engineering with AI"
+- **Air Traffic Delay Predictions [(Paper)](https://github.com/junzis/atdelay) | [(Minor Project)](https://github.com/ConstantinosAr/Air-traffic-delays-prediction-model)** | Graph and Temporal Neural network models to predict air traffic delays in a network of airports.
 - **[imav2022Drone](https://github.com/tristandijkstra/imav2022)** | Drone code for IMAV2022 MAV competition.
 - **[MSP](https://github.com/tristandijkstra/msp)** | **[Examples](https://github.com/tristandijkstra/msp-examples)** | Two-Body model with manouvres.
 
